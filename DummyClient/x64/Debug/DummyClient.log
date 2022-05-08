@@ -1,0 +1,40 @@
+﻿Protocol.proto(4,1): warning G1A4DC0EC: Import Enum.proto is unused.
+  D:Enum.pb.h
+  1개 파일이 복사되었습니다.
+  D:Enum.pb.cc
+  1개 파일이 복사되었습니다.
+  D:Struct.pb.h
+  1개 파일이 복사되었습니다.
+  D:Struct.pb.cc
+  1개 파일이 복사되었습니다.
+  D:Protocol.pb.h
+  1개 파일이 복사되었습니다.
+  D:Protocol.pb.cc
+  1개 파일이 복사되었습니다.
+  D:ClientPacketHandler.h
+  1개 파일이 복사되었습니다.
+  D:Enum.pb.h
+  1개 파일이 복사되었습니다.
+  D:Enum.pb.cc
+  1개 파일이 복사되었습니다.
+  D:Struct.pb.h
+  1개 파일이 복사되었습니다.
+  D:Struct.pb.cc
+  1개 파일이 복사되었습니다.
+  D:Protocol.pb.h
+  1개 파일이 복사되었습니다.
+  D:Protocol.pb.cc
+  1개 파일이 복사되었습니다.
+  D:ServerPacketHandler.h
+  1개 파일이 복사되었습니다.
+  D:\project\ServerCore\Protobuf\bin\*.ph.cc을(를) 찾을 수 없습니다.
+  계속하려면 아무 키나 누르십시오 . . . 
+  CustomPacketHandler.cpp
+  DummyClient.cpp
+  ServerPacketHandler.cpp
+  코드를 생성하고 있습니다...
+  Enum.pb.cc
+  Protocol.pb.cc
+  Struct.pb.cc
+  코드를 생성하고 있습니다...
+  DummyClient.vcxproj -> D:\project\ServerCore\Binary\Debug\DummyClient.exe
